@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans and roadmap/Roadmap - 3 month.md",
+                "file": "01-Week/00-Plans/01-Week Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap - 3 month"
+              "title": "01-Week Plan"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Week/Plans/01-Week Plan.md",
+                "file": "01-Week/00-Plans/01-Week Plan.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,11 +198,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ab73bcdeb96fd33",
+  "active": "24ed0d1e307ee162",
   "lastOpenFiles": [
-    "01-Week/Plans/01-Week Plan.md",
+    "01-Week/01-Day wise plan",
+    "01-Week/Learn",
     "Plans and roadmap/Roadmap - 3 month.md",
-    "01-Week/Plans",
+    "01-Week/00-Plans/01-Week Plan.md",
+    "01-Week/00-Plans",
     "01-Week",
     "Welcome.md",
     "Plans and roadmap"
