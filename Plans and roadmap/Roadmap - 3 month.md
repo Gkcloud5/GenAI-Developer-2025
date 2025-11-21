@@ -4,11 +4,11 @@
 ### _The most accurate 2025 GenAI developer roadmap._
 
 ---
-
+  
 # 🟦 **MONTH 1 — Foundation + Agents + Observability + UI**
 
 Goal: Get solid with Python, tools, Pydantic, LangGraph basics, FastAPI backend, Chainlit frontend, and tracing.
-
+ 
 ---
 
 ## **WEEK 1 — Python + Tools + FastAPI (Serving Layer Early)**
