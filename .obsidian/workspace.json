@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +227,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "24ed0d1e307ee162",
+  "active": "66c90468042911c8",
   "lastOpenFiles": [
-    "01-Week/00-Plans/01-Week Plan.md",
     "01-Week/01-Day wise plan/Day wise plan.md",
+    "01-Week/00-Plans/01-Week Plan.md",
     "Prompt for learn.md",
     "Plans and roadmap/Roadmap - 3 month.md",
     "01-Week/01-Day wise plan",
