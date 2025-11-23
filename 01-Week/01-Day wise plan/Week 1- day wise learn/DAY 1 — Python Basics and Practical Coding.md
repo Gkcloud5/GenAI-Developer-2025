@@ -34,4 +34,5 @@ def greet(name):
 
 ### 1.2 Imports and packages:
 
-* Packages/Libraries: Collection of pre written code that extend python capabilities. `import` them to 
+* `Packages/Libraries`: Collection of pre written code that extend python capabilities. `import` them to use their functions.
+* `Virtual Environments`
