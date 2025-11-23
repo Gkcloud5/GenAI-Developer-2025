@@ -34,4 +34,4 @@ def greet(name):
 
 ### 1.2 Imports and packages:
 
-* Package
+* Packages/Libraries: Collection of pre written code that extend python capabilities. `import` them to 
