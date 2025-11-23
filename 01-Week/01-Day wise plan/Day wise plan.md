@@ -72,7 +72,7 @@ Each day includes:
 
 ---
 
-# **DAY 2 — Pydantic + JSON Schemas**
+# **[[DAY 2 — Pydantic and JSON Schemas]]**
 
 ### **Theory (30%)**
 
