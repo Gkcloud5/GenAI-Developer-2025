@@ -49,4 +49,13 @@ venv/Scripts/activate
 ```
 
 ### 1.3 JSON Basics:
-* It's universal language of data exchange on the web, espec
+* It's universal language of data exchange on the web, especially with API's
+* python dict = JSON object
+* python list = JSON array
+
+```
+import json
+data = {"name": "Gokul", "score": 95}
+json_string = json.dumps(data)
+```
+
