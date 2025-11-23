@@ -1,5 +1,5 @@
 
-### Python basics:
+### 1. Python basics:
 * 3 fundamental building blocks
 	* Variable
 	* Loop
@@ -25,4 +25,8 @@ for i in range(5):
 
 #### Functions:
 * Reusable logic:
-* Every complex tasks
+* Every complex tasks broken into small, testable functions
+```
+def greet(name):
+	return f"Hello {name}"
+```
