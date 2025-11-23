@@ -41,7 +41,7 @@ Each day includes:
 
 ---
 
-# **DAY 1 — Python Basics + Practical Coding**
+# **[[DAY 1 — Python Basics and Practical Coding]]**
 
 ### **Theory (30%)**
 
