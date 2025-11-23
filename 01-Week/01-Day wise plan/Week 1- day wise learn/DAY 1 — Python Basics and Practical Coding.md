@@ -59,3 +59,47 @@ data = {"name": "Gokul", "score": 95}
 json_string = json.dumps(data)
 ```
 
+
+```python
+file: utils.py
+
+import json
+
+def add(a, b):
+    return a + b
+
+def reverse_string(text):
+    return text[::-1]
+
+def count_words(text):
+    return len(text.split())
+
+def user_to_json(name, age):
+    data = {"name": name, "age": age}
+    return json.dumps(data)
+
+def average(numbers):
+    return sum(numbers) / len(numbers)
+
+```
+
+```python
+file: main.py
+
+from utils import add, reverse_string, count_words, user_to_json, average
+
+print(add(10, 20))
+print(reverse_string("Gokul"))
+print(count_words("I want to become a GenAI engineer"))
+print(user_to_json("Gokul", 27))
+print(average([10, 20, 30, 40]))
+```
+
+# **Industry Case Study — Why This Matters**
+
+A real LLM agent service (like OpenAI assistants, LangChain, or enterprise AI tools) ALWAYS:
+- runs in isolated virtual environments
+- uses utility functions for small tasks
+- converts EVERYTHING to JSON
+- combines Python + APIs + LLM tools
+Companies like **OpenAI, Cohere, and Anthropic** use thousands of tiny helper functions internally to structure LLM outputs.
