@@ -35,4 +35,14 @@ def greet(name):
 ### 1.2 Imports and packages:
 
 * `Packages/Libraries`: Collection of pre written code that extend python capabilities. `import` them to use their functions.
-* `Virtual Environments`: venv -- A self contained directory that holds the specifi
+* `Virtual Environments`: venv -- A self contained directory that holds the specific python interpreter and packages for single project
+
+```
+import math
+print(math.sqrt(16))
+
+pip install requests
+
+python -m venv venv
+source venv/bin
+```
