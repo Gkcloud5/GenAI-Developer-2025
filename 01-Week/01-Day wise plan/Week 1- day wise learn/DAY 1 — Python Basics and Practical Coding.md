@@ -16,4 +16,13 @@ height = 165.5
 
 #### Loops:
 * Repeat actions
-* Essential for processing lists of files, batch calling an API, or trai
+* Essential for processing lists of files, batch calling an API, or training data records
+
+```
+for i in range(5):
+	print(i)
+```
+
+#### Functions:
+* Reusable logic:
+* Every complex tasks
