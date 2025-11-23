@@ -44,5 +44,9 @@ print(math.sqrt(16))
 pip install requests
 
 python -m venv venv
-source venv/bin
+source venv/bin/activate
+venv/Scripts/activate
 ```
+
+### 1.3 JSON Basics:
+* It's universal language of data exchange on the web, espec
