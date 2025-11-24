@@ -111,7 +111,7 @@ Each day includes:
 
 ---
 
-# **DAY 3 — Async Python + Building Tools**
+# **[[DAY 3 — Async Python and Building Tools]]**
 
 ### **Theory (30%)**
 

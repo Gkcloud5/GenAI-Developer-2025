@@ -56,6 +56,20 @@
             }
           },
           {
+            "id": "c1117b78496a58f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 3 — Async Python and Building Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DAY 3 — Async Python and Building Tools"
+            }
+          },
+          {
             "id": "20379d1a09c4505c",
             "type": "leaf",
             "state": {
@@ -69,7 +83,8 @@
               "title": "DAY 2 — Pydantic and JSON Schemas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,12 +247,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ab73bcdeb96fd33",
+  "active": "abf580da3c351b57",
   "lastOpenFiles": [
-    "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 2 — Pydantic and JSON Schemas.md",
+    "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 3 — Async Python and Building Tools.md",
     "01-Week/01-Day wise plan/Day wise plan.md",
-    "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 1 — Python Basics and Practical Coding.md",
     "Plans and roadmap/Roadmap - 3 month.md",
+    "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 2 — Pydantic and JSON Schemas.md",
+    "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 1 — Python Basics and Practical Coding.md",
     "01-Week/00-Plans/01-Week Plan.md",
     "Prompt for learn.md",
     "01-Week/01-Day wise plan/Week 1- day wise learn",
