@@ -69,8 +69,7 @@
               "title": "DAY 2 — Pydantic and JSON Schemas"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,10 +232,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "20379d1a09c4505c",
+  "active": "1ab73bcdeb96fd33",
   "lastOpenFiles": [
-    "01-Week/01-Day wise plan/Day wise plan.md",
     "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 2 — Pydantic and JSON Schemas.md",
+    "01-Week/01-Day wise plan/Day wise plan.md",
     "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 1 — Python Basics and Practical Coding.md",
     "Plans and roadmap/Roadmap - 3 month.md",
     "01-Week/00-Plans/01-Week Plan.md",
