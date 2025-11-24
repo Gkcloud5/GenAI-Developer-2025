@@ -9,4 +9,6 @@
 * `Automatic parsing`: when pass raw data (like dictionary from an API) into pydantic model, it automatically converts the data into the correct python types
 * Make code `clean, safe and professional`
 
-## 2.2 
+## 2.2 Type Hints:
+* It tells python the exact type of each variable.
+* 
