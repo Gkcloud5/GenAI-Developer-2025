@@ -11,7 +11,7 @@
 
 ## 2.2 Type Hints:
 * It tells python the exact type of each variable.
-* type: meaing
+* type: meaning
 	* str: text
 	* int:number
 	* float:Decimal number
@@ -20,4 +20,5 @@
 	* dict: key-value data
 
 ## 2.3 Why schemas matter for LLM tools:
-* LLM tools need strutured 
+* LLM tools need structured JSON, not random sentences.
+
