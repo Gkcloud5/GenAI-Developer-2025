@@ -2,7 +2,7 @@ Perfect. I now have the details needed.
 Ms. Grace will guide you with a **precise, realistic, beginner-friendly Week-1 plan**, optimized for **1–2 hours per day**, with **30% theory + 70% practical**, and focused on **automation + real project building**.
 
 ---
-
+ 
 # ✅ **WEEK 1 — Python + Tools + FastAPI (Serving Layer Early)**
 
 **Goal:** By the end of Week 1, you can:
