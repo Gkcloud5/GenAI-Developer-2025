@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,10 +247,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1117b78496a58f4",
+  "active": "20379d1a09c4505c",
   "lastOpenFiles": [
-    "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 2 — Pydantic and JSON Schemas.md",
     "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 3 — Async Python and Building Tools.md",
+    "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 2 — Pydantic and JSON Schemas.md",
     "01-Week/01-Day wise plan/Day wise plan.md",
     "Plans and roadmap/Roadmap - 3 month.md",
     "01-Week/01-Day wise plan/Week 1- day wise learn/DAY 1 — Python Basics and Practical Coding.md",
