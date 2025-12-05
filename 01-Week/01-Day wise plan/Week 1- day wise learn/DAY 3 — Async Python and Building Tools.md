@@ -6,6 +6,11 @@
 ``` python3
 import asyncio
 
-async def say_hello
+async def say_hello():
+      print("Hello")
+      
+asyncio.run(say_hello())      
 
 ```
+
+### 3.2 What is f
