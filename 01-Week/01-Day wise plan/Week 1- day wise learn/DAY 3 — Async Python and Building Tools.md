@@ -30,4 +30,5 @@ def hello():
 	return {"message": "Hello world"}
 ```
 
-* 
+* FastAPI is modern, fast, web framework for building API's.
+	* It support async programming
