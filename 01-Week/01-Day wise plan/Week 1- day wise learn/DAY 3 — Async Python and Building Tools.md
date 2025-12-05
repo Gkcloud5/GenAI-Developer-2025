@@ -19,11 +19,14 @@ asyncio.run(say_hello())
 	* very easy
 	* works perfectly with pydantic
 	* used in production by companies for AI tools
+
 ```python
 from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get
-
+@app.get("/")
+def hello():
+	return {"message": "Hello world"}
 ```
+
