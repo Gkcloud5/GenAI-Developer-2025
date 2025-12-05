@@ -22,6 +22,8 @@ asyncio.run(say_hello())
 ```python
 from fastapi import FastAPI
 
+app = FastAPI()
 
+@app.get
 
 ```
