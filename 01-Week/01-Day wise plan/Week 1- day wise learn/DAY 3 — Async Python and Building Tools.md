@@ -32,3 +32,8 @@ def hello():
 
 * FastAPI is modern, fast, web framework for building API's.
 	* It support async programming
+
+### 3.3 Why fastapi + pydantic is the perfect combo?
+* FastAPI uses schemas to validate requests
+* Auto-generates documentation
+* Makes LLM tools predictable and structured
