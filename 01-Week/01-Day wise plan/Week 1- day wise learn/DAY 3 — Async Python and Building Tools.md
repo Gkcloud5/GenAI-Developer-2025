@@ -37,4 +37,5 @@ def hello():
 * FastAPI uses schemas to validate requests
 * Auto-generates documentation
 * Makes LLM tools predictable and structured
-* 
+
+
